@@ -1,4 +1,3 @@
-### **PRODIGY_GA_01**
 
 ### **Fine-Tuning GPT-2 with Transformers**
 
